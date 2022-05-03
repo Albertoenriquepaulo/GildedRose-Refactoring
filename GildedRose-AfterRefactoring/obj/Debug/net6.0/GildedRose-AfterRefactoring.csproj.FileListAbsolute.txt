@@ -1,0 +1,15 @@
+C:\stash\MyProjects\GildedRose-Refactoring-Kata\GildedRose-AfterRefactoring\bin\Debug\net6.0\GildedRose-AfterRefactoring.exe
+C:\stash\MyProjects\GildedRose-Refactoring-Kata\GildedRose-AfterRefactoring\bin\Debug\net6.0\GildedRose-AfterRefactoring.deps.json
+C:\stash\MyProjects\GildedRose-Refactoring-Kata\GildedRose-AfterRefactoring\bin\Debug\net6.0\GildedRose-AfterRefactoring.runtimeconfig.json
+C:\stash\MyProjects\GildedRose-Refactoring-Kata\GildedRose-AfterRefactoring\bin\Debug\net6.0\GildedRose-AfterRefactoring.dll
+C:\stash\MyProjects\GildedRose-Refactoring-Kata\GildedRose-AfterRefactoring\bin\Debug\net6.0\GildedRose-AfterRefactoring.pdb
+C:\stash\MyProjects\GildedRose-Refactoring-Kata\GildedRose-AfterRefactoring\obj\Debug\net6.0\GildedRose-AfterRefactoring.csproj.AssemblyReference.cache
+C:\stash\MyProjects\GildedRose-Refactoring-Kata\GildedRose-AfterRefactoring\obj\Debug\net6.0\GildedRose-AfterRefactoring.GeneratedMSBuildEditorConfig.editorconfig
+C:\stash\MyProjects\GildedRose-Refactoring-Kata\GildedRose-AfterRefactoring\obj\Debug\net6.0\GildedRose-AfterRefactoring.AssemblyInfoInputs.cache
+C:\stash\MyProjects\GildedRose-Refactoring-Kata\GildedRose-AfterRefactoring\obj\Debug\net6.0\GildedRose-AfterRefactoring.AssemblyInfo.cs
+C:\stash\MyProjects\GildedRose-Refactoring-Kata\GildedRose-AfterRefactoring\obj\Debug\net6.0\GildedRose-AfterRefactoring.csproj.CoreCompileInputs.cache
+C:\stash\MyProjects\GildedRose-Refactoring-Kata\GildedRose-AfterRefactoring\obj\Debug\net6.0\GildedRose-AfterRefactoring.dll
+C:\stash\MyProjects\GildedRose-Refactoring-Kata\GildedRose-AfterRefactoring\obj\Debug\net6.0\refint\GildedRose-AfterRefactoring.dll
+C:\stash\MyProjects\GildedRose-Refactoring-Kata\GildedRose-AfterRefactoring\obj\Debug\net6.0\GildedRose-AfterRefactoring.pdb
+C:\stash\MyProjects\GildedRose-Refactoring-Kata\GildedRose-AfterRefactoring\obj\Debug\net6.0\GildedRose-AfterRefactoring.genruntimeconfig.cache
+C:\stash\MyProjects\GildedRose-Refactoring-Kata\GildedRose-AfterRefactoring\obj\Debug\net6.0\ref\GildedRose-AfterRefactoring.dll
