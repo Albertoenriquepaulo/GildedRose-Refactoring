@@ -43,7 +43,7 @@ More translations are most welcome! I'm very open for pull requests that transla
 
 Please note a translation should ideally include:
 
-- A translation of the production code for 'update_quality' and Item
+- a translation of the production code for 'update_quality' and Item
 - one failing unit test complaining that "fixme" != "foo"
 - a TextTest fixture, ie a command-line program that runs update_quality on the sample data for the number of days specified.
 
